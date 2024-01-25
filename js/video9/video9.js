@@ -9,3 +9,4 @@ console.log(`check data object:`,a)
 let b=['pham','nguyen','quan'];
 console.log(`type of b:`,typeof b, b)
 console.log(`Ten:`, b[2])
+//heloi
